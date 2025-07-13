@@ -1,0 +1,25 @@
+name: manual_camera_example
+description: Demonstrates how to use the camera plugin.
+
+dependencies:
+  manual_camera_pro:
+    path: ../
+  flutter:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  path_provider: ^2.0.15
+  video_player: ^2.6.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  lints: ^2.1.0
+
+flutter:
+  uses-material-design: true
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
