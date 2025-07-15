@@ -28,5 +28,5 @@ flutter:
       android:
         package: com.afonsoraposo.camera
         pluginClass: ManualCameraProPlugin
-      # ios:
-      #   pluginClass: CameraPlugin
+
+
